@@ -1,2 +1,1 @@
-# NASA-battery-capacity-prediction
-Machine learning project using NASA B0053 battery discharge data to analyze battery degradation 
+![Battery capacity prediction](NASA_battery_capacity_prediction.png)
